@@ -3,8 +3,8 @@
 
 # N.T.Lock
 
-Aspiring offensive-security developer, free software enjoyer, amouter reverse enjennerer.
-Currently studing at [UNIPD](https://www.unipd.it/).
+Aspiring offensive-security developer, free software enjoyer, amateur reverse engineer.
+Currently studying at [UNIPD](https://www.unipd.it/).
 
 [Blog](https://blog.ntlock.xyz/)  
 Dotfiles: COMING SOON. 
